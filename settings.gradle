@@ -1,0 +1,4 @@
+rootProject.name = 'egreen-telslar-engine'
+include 'core'
+include 'launcher'
+
